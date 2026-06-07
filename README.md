@@ -88,7 +88,7 @@ jupyter notebook Level_1_Shubham_Jaiswal.ipynb
 
 ## 👨‍💻 Author
 
-**Shubham Jaiswal**
+**Shubham Jaiswal**  
 *Data analyst | Uncovering hidden patterns in real-world data to drive smarter decisions*
 
 ---
